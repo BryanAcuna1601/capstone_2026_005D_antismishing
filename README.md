@@ -8,7 +8,7 @@ Aplicación para la detección y prevención de smishing (estafas por SMS) en Ch
 ## Integrantes y Roles
 * **Manuel Rivas:** [Rol]
 * **Marcel Tusach:** [Rol]
-* **Bryan Acuña:** [Rol]
+* **Bryan Acuña:** Jefe de Proyecto
 
 ## Tecnologías a utilizar
 * **Frontend:**
