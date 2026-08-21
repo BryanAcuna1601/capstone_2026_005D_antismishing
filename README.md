@@ -6,7 +6,7 @@
 Aplicación para la detección y prevención de smishing (estafas por SMS) en Chile.
 
 ## Integrantes y Roles
-* **Manuel Rivas:** [Rol]
+* **Manuel Rivas:** Desarrollador Fullstack
 * **Marcel Tusach:** [Rol]
 * **Bryan Acuña:** Jefe de Proyecto
 
