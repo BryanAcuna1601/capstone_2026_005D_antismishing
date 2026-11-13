@@ -1,4 +1,4 @@
-# capstone_2026_005D_antismishing [Nombre de la App cuando tengamos uno]
+# capstone_2026_005D_antismishing SMS Security
 
 **Proyecto Capstone 2026 - Sección 005D**
 
